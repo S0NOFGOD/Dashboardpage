@@ -1,0 +1,10 @@
+.activity {
+  margin-top: 40px;
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+.activity ul {
+  padding-left: 20px;
+}
